@@ -18,6 +18,7 @@
 }(this, function (angular) {
     'use strict';
 
+    var angular = window.angular;
     var m = angular.module('ngDialog', []);
 
     var $el = angular.element;
